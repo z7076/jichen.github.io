@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -23,13 +23,22 @@ Journal
 
 Patent
 ======
-* A dispatching method for carbon emission reduction in active distribution network considering distributed energy storage system in virtual power plant. (Under review)
+* A dispatching method for carbon emission reduction in activedistribution network considering distributed energy storage system in virtual power plant. (Under review)
 
-* A microgrid group collaborative dispatching method, device, electronic equipment and storage medium. (Public, China, CN113962446A, 2022.1)
+* A microgrid group collaborative dispatching method, device, electronic equipment and storage medium. (Public, China, CN113962446A, 2022.1)
 
 Presentation
 ======
-* G. Sang, J. He, H. Yang, **J. Zhang**. Safetech Belt: Safer Driving in the Smart Living Era. (Poster in TBSI Retreat, 2023)
+* G. Sang, J. He, H. Yang, **J. Zhang**. Safetech Belt: Safer Driving in the Smart Living Era. (Poster in TBSI Retreat, 2023)
 
-* H. Wang, **J. Zhang**, J. He, G. Xu, C. Wang. Smart Home——An Intelligent Life Scenario Application Based on Wearable Devices and Deep Reinforcement Learning. (Poster in TBSI Retreat, 2022)
+* Z. Wang, **J. Zhang**, J. He, G. Xu, C. Wang. Smart Home——An Intelligent Life Scenario Application Based on Wearable Devices and Deep Reinforcement Learning. (Poster in TBSI Retreat, 2022)
 
+Competition
+======
+* National Undergraduate Electronics Design Contest
+  * Provincial Second Prize, Sept. 2019
+  * Quad-rotor design with the flight of fixed height and detection based on TIVA C
+
+* Provincial Invitation of National University Student Intelligent Car Race
+  * Second Prize, May 2019
+  * Smartcar with wireless charging design and tracking control based on NXP K66

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,14 +22,14 @@ Work experience
 Awards and Scholarships
 ======
 * Tsinghua University
-  * Outstanding Students | Awarded to students with comprehensive outstanding performance (2% in University) | Oct. 2023
-  * Comprehensive Scholarship | Awarded to students with comprehensive outstanding performance (2% in Department) | Oct. 2023    
+  * Outstanding Students, Awarded to students with comprehensive outstanding performance (2% in University), Oct. 2023
+  * Comprehensive Scholarship, Awarded to students with comprehensive outstanding performance (2% in Department), Oct. 2023    
 * Harbin Institute of Technology
-  * Outstanding Graduates | Awarded to graduates with comprehensive outstanding performance (5% in University) | Jun. 2021
-  * Outstanding Student Model | Awarded to students with comprehensive outstanding performance (2% in University) | May 2021
-  * UHV Scholarship Fund | Awarded to outstanding undergraduate students (180 students per year in China) | Nov. 2020
-  * Enterprise (JL MAG Rare-Earth Co., Ltd.) Scholarship | Awarded to students with excellent academic performance (2 students per year in Department) | Nov. 2019
-  * The People Scholarship | Awarded to students with excellent academic performance (5%-20% in Department) | Awarded 7 times Sept. 2017 – Jun. 2021
+  * Outstanding Graduates, Awarded to graduates with comprehensive outstanding performance (5% in University), Jun. 2021
+  * Outstanding Student Model, Awarded to students with comprehensive outstanding performance (2% in University), May 2021
+  * UHV Scholarship Fund, Awarded to outstanding undergraduate students (180 students per year in China), Nov. 2020
+  * Enterprise (JL MAG Rare-Earth Co., Ltd.) Scholarship, Awarded to students with excellent academic performance (2 students per year in Department), Nov. 2019
+  * The People Scholarship, Awarded to students with excellent academic performance (5%-20% in Department), Awarded 7 times Sept. 2017 – Jun. 2021
     
 Service and leadership
 ======
