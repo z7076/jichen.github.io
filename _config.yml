@@ -13,7 +13,7 @@ name                     : &name "Jichen Zhang"
 description              : &description "personal description"
 url                      : https://z7076.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "z7076/z7076.github.io"
+repository               : "z7076.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jichen Zhang
+  name             : "Jichen Zhang"
   avatar           : "profile.png"
   bio              : "Master's Student"
   location         : # "Location"
   employer         : "Tsinghua University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : jc-zhang21@mails.tsinghua.edu.cn
+  email            : "jc-zhang21@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
