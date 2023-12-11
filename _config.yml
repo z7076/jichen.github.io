@@ -84,10 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Master's Student"
   location         : # "Location"
-  employer         : [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+  employer         : "Tsinghua University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : [jc-zhang21@mails.tsinghua.edu.cn](jc-zhang21@mails.tsinghua.edu.cn)
+  email            : "jc-zhang21@mails.tsinghua.edu.cn"
+  tel              : "86 13905207139"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
