@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Master's student at Smart Grid and Renewable Energy Lab from [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Yinliang Xu](https://www.tbsi.edu.cn/xyl/main.htm). 
-My research interests lie in data-driven system control and optimization. I am currently working on safe reinforcement learning on voltage and frequency regulation in power systems.
+I am currently a third-year Master's student at Smart Grid and Renewable Energy Lab from [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by [Prof. Yinliang Xu](https://www.tbsi.edu.cn/xyl/main.htm).  
+My research interests lie in data-driven system control and optimization. I am currently working on safe reinforcement learning on voltage and frequency regulation in power systems.  
 I graduated from [Harbin Institute of Technology](http://en.hit.edu.cn/) with a Bachelor's degree in Electrical Engineering and Automation.
 
 News
