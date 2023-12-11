@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jichen Zhang"
-  avatar           : "profile.png"
+  avatar           : "edit.jpg"
   bio              : "Master's Student"
-  location         : "86 13905207139"
+  location         : # "86 13905207139"
   employer         : "Tsinghua University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
