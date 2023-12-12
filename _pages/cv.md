@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2017-2021
 * M.S. in Electrical Engineering, Tsinghua University, 2021-2024(expected)
+* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2017-2021
 
 Work experience
 ======
