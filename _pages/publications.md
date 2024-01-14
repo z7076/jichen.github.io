@@ -17,9 +17,9 @@ author_profile: true
 
 Journal
 ======
-* **J. Zhang**, L. Sang, Y. Xu, H. Sun. Networked Multi-agent Based Safe Reinforcement Learning for the Low-carbon Demand Management in Distribution Network, IEEE Transactions on Sustainable Energy. (Accepted, JCR: Q1, IF: 8.8) [[arxiv]](https://arxiv.org/abs/2311.15594)
+* **J. Zhang**, L. Sang, Y. Xu, H. Sun. Networked Multi-agent Based Safe Reinforcement Learning for the Low-carbon Demand Management in Distribution Network, IEEE Transactions on Sustainable Energy. (Accepted, JCR: Q1, IF: 8.8) [[Link]](https://arxiv.org/abs/2311.15594)
 
-* **J. Zhang**, X. Wei, Y. Xu. Bi-level Mixed-Integer Nonlinear Optimization for Pelagic Island Microgrid Group Energy Management Considering Uncertainty, CSEE Journal of Power and Energy Systems. (Accepted, JCR: Q1, IF: 7.47) [[arxiv]](https://arxiv.org/abs/2311.15517)
+* **J. Zhang**, X. Wei, Y. Xu. Bi-level Mixed-Integer Nonlinear Optimization for Pelagic Island Microgrid Group Energy Management Considering Uncertainty, CSEE Journal of Power and Energy Systems. (Accepted, JCR: Q1, IF: 7.47) [[Link]](https://arxiv.org/abs/2311.15517)
 
 Patent
 ======
