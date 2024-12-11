@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PH.D. in Engineering Science, University of Oxford, 2024-2028 (Expected)
+* Ph.D. in Engineering Science, University of Oxford, 2024-2028 (Expected)
 * M.S. in Electrical Engineering, Tsinghua University, 2021-2024
 * B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2017-2021
 
