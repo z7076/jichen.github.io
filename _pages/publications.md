@@ -23,7 +23,7 @@ Journal
 
 Patent
 ======
-* A dispatching method for carbon emission reduction in activedistribution network considering distributed energy storage system in virtual power plant. (Under review)
+* A dispatching method for carbon emission reduction in activedistribution network considering distributed energy storage system in virtual power plant. (Public, China, CN118052483A, 2024.5)
 
 * A microgrid group collaborative dispatching method, device, electronic equipment and storage medium. (Public, China, CN113962446A, 2022.1)
 

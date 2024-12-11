@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Electrical Engineering, Tsinghua University, 2021-2024(expected)
+* PH.D. in Engineering Science, University of Oxford, 2024-2028 (Expected)
+* M.S. in Electrical Engineering, Tsinghua University, 2021-2024
 * B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2017-2021
 
 Work experience
@@ -41,6 +42,6 @@ Service and leadership
 Skills
 ======
 * Languages: Mandarin (Native), English (Professional Working Proficiency)
-* Programming: C/C++, Python, Matlab
+* Programming: Python, Matlab, C/C++
 * Tools: Gurobi, Cplex, CVXPY, Pytorch, Keil
 * Hobbies: Badminton, Football, Violin
